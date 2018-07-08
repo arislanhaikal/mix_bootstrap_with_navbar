@@ -1,5 +1,13 @@
 # mix_master
-Laravel Mix for Frontend Developer with Bootstrap 4
+Laravel mix include bootstrap 4 with parallax navbar starter kit
 
-Install
+<b>Simple Library</b>
+- Bootstrap 4
+- Poper.js
+- Jquery 3
+- Lodash
+- Jquery Easing
+
+<b>Install</b>
 - npm install
+- npm run watch
