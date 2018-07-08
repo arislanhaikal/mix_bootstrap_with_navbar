@@ -1,0 +1,31 @@
+/*Fonts*/
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,600);
+
+body {
+    font-size: 13px;
+    font-family: "Roboto", sans-serif;
+    overflow: hidden;
+    overflow-x: hidden;
+    height: 100%;
+    background: #eee;
+}
+
+/*HEADER*/
+header {
+  height: 100vh;
+    width: 100vw;
+    padding-top: 30% !important;
+    padding-bottom: 30% !important;
+    text-align: center;
+    color: white;
+    background: #5C258D;
+    background: -webkit-linear-gradient(to right, #4389A2, #5C258D);
+    background: linear-gradient(to left, rgba(142, 158, 171, 0.2), rgba(54, 209, 220, 0.2)), url(../img/header.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+}
